@@ -22,6 +22,8 @@ if height >= 120:
             print(f"You have to pay ${price} middle boy")
         else:
             print(f"you have to pay ${price} boy")
+    elif age >= 45 and age <= 55:
+    	print("You got a free ticket uncle")
     else:
         price = 12
         photos = input("Do you want photos Y or N? ")
