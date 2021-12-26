@@ -1,3 +1,4 @@
+#this is a game to check if you are compattible with your girl 
 print("Welcome to the love calculator!!!")
 
 name1 = input("what's your name? ")
